@@ -1,0 +1,26 @@
+project ini masih dalam pengembangan jadi belum fix
+VCC → 3V3
+
+GND → GND
+
+SDA → GPIO 8
+
+SCL → GPIO 9
+
+Tombol Clock
+
+satu kaki → GND
+
+kaki lain → GPIO 2
+
+Tombol Weather
+
+satu kaki → GND
+
+kaki lain → GPIO 3
+
+Buzzer
+
+→ GPIO 4 (atau pin kosong lain)
+
+→ GND
